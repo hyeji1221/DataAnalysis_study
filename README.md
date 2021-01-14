@@ -8,6 +8,7 @@
 - [CSV 파일 다루기](https://github.com/hyeji1221/DataManagement_study/blob/main/CSV/CSV%20%ED%8C%8C%EC%9D%BC%EB%A1%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0.md)
 
 ### 다양한 패키지로 데이터 분석하기
+- [데이터 분석하기](https://github.com/hyeji1221/DataAnalysis_study/blob/main/package/README.md)
 
 ### 웹 크롤링으로 정보 모으기
 
