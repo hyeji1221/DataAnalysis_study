@@ -11,6 +11,7 @@
 - [데이터 분석하기](https://github.com/hyeji1221/DataAnalysis_study/blob/main/package/README.md)
 
 ### 웹 크롤링으로 정보 모으기
-
+- [웹 크롤링 준비하기](https://github.com/hyeji1221/DataAnalysis_study/blob/main/Web_Crawling/%EC%9B%B9%20%ED%81%AC%EB%A1%A4%EB%A7%81%20%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0.ipynb)
+- [포털 사이트에서 기사 크롤링하기](https://github.com/hyeji1221/DataAnalysis_study/blob/main/Web_Crawling/%ED%8F%AC%ED%84%B8%20%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%97%90%EC%84%9C%20%EA%B8%B0%EC%82%AC%20%ED%81%AC%EB%A1%A4%EB%A7%81%ED%95%98%EA%B8%B0.ipynb)
 
 
